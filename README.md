@@ -5,7 +5,7 @@ Farmers face economic loss and crop waste every year due to various diseases in 
 
 ## Dataset
 [PlantVillage](https://www.kaggle.com/datasets/arjuntejaswi/plant-village) \
-I kept only the tomato plant dataset.\
+I kept only the tomato plant dataset.
 
 ## Model
 I built 3 models: 1. without a learning rate scheduler, 2. with a learning rate scheduler, and 3. with a learning rate scheduler and applied transfer learning using ResNet50V2.\
